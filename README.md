@@ -46,3 +46,23 @@ Building modern, clean, and responsive web experiences.
 <img src="https://streak-stats.demolab.com?user=ceacodesnclass-rgb&theme=tokyonight&hide_border=true"/>
 
 </p>
+
+## 📈 Activity Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ceacodesnclass-rgb&theme=tokyo-night&hide_border=true"/>
+</p>
+
+## 🏆 Achievements
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=ceacodesnclass-rgb&theme=tokyonight&no-frame=true&row=1"/>
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=ceacodesnclass-rgb&label=Profile%20Views&color=0e75b6&style=flat"/>
+</p>
+
+## ✨ Quote
+
+> "Keep building, one commit at a time."
