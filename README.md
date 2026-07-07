@@ -1,16 +1,48 @@
-## Hi there 👋
+<h1 align="center">Hi 👋 I'm Cea</h1>
 
-<!--
-**ceacodesnclass-rgb/ceacodesnclass-rgb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+Frontend Developer from Indonesia 🇮🇩
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+Building modern, clean, and responsive web experiences.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Currently
+
+- 💼 Frontend Developer Intern @ Codelabs Indonesia
+- 🌱 Learning React & Modern Web Development
+- 🎯 Building travel booking websites
+- ✨ Exploring UI/UX and clean frontend architecture
+
+---
+
+## 💻 Tech Stack
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,git,github,vscode,figma" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ceacodesnclass-rgb&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ceacodesnclass-rgb&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=ceacodesnclass-rgb&theme=tokyonight&hide_border=true"/>
+
+</p>
