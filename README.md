@@ -5,10 +5,12 @@
 <div align="center">
 
 <img
-  src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,45:0B1F3A,100:2563EB&height=230&section=header&text=CHIZZUU&fontSize=72&fontColor=60A5FA&animation=fadeIn&fontAlignY=38&desc=Build%20%E2%80%A2%20Design%20%E2%80%A2%20Create&descAlignY=58&descSize=18&descColor=DBEAFE"
+  src="https://capsule-render.vercel.app/api?type=venom&color=0:020617,45:0B1F3A,100:1D4ED8&height=220&section=header&text=CHIZZUU&fontSize=64&fontColor=93C5FD&animation=fadeIn&fontAlignY=43&desc=Backend%20Learner%20%E2%80%A2%20UI%2FUX%20Designer%20%E2%80%A2%20Frontend%20Developer&descAlignY=63&descSize=16&descColor=DBEAFE"
   width="100%"
-  alt="Chizzuu Header"
+  alt="Chizzuu Banner"
 />
+
+</div>
 
 ### Hi, I'm Cea 👋
 
