@@ -1,5 +1,16 @@
 <div align="center">
 
+<img src="./assets/cea-cyber-dashboard.png" width="100%" alt="CEA — Cyberpunk Backend Developer Dashboard">
+
+<br>
+
+[![GitHub](https://img.shields.io/badge/GitHub-ceacodesnclass--rgb-071426?style=for-the-badge&logo=github&logoColor=22D3EE)](https://github.com/ceacodesnclass-rgb)
+[![Email](https://img.shields.io/badge/Email-Let's_Talk-071426?style=for-the-badge&logo=gmail&logoColor=8B5CF6)](mailto:ceacodesnclass@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-@_zrvnfy-071426?style=for-the-badge&logo=instagram&logoColor=EC4899)](https://instagram.com/_zrvnfy)
+
+</div>
+<div align="center">
+
 <img src="./assets/cea-banner.svg" width="100%" alt="CEA — Backend Developer">
 
 <br>
