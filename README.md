@@ -1,105 +1,137 @@
 <div align="center">
 
-# Hi, I'm Cea 👋
+# CEA
 
-### Backend Developer · Creative Technologist
+```bash
+> booting developer profile...
 
-<p>
-  Backend Intern at <b>Codelabs Indonesia</b><br>
-  Building reliable APIs, learning scalable systems, and turning ideas into useful digital experiences.
-</p>
+███████████████████░░░░ 78%
 
-<a href="https://github.com/ceacodesnclass-rgb">
-  <img src="https://img.shields.io/badge/GitHub-ceacodesnclass--rgb-071426?style=flat-square&logo=github&logoColor=58A6FF" alt="GitHub">
-</a>
-<a href="mailto:ceacodesnclass@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Let's%20Talk-0B2545?style=flat-square&logo=gmail&logoColor=7DD3FC" alt="Email">
-</a>
-<a href="https://instagram.com/_zrvnfy">
-  <img src="https://img.shields.io/badge/Instagram-@_zrvnfy-0E3A66?style=flat-square&logo=instagram&logoColor=white" alt="Instagram">
-</a>
-
-</div>
-
-<br>
-
-## About Me
-
-```yaml
-role: Backend Developer
-currently: Backend Intern @ Codelabs Indonesia
-learning:
-  - REST API Development
-  - Clean Architecture
-  - System Design
-creative_side:
-  - UI/UX Design
-  - Beginner Streamer
+Status      : Building
+Role        : Backend Developer
+Location    : Indonesia
+Coffee      : Required ☕
+Current Job : Turning ideas into APIs
 ```
 
-I am a beginner backend developer who enjoys understanding how things work behind the screen.  
-My current focus is writing clean, maintainable backend code and developing APIs that solve real problems.
-
-## Tech & Tools
-
-<div align="left">
-
-![Laravel](https://img.shields.io/badge/Laravel-071426?style=flat-square&logo=laravel&logoColor=FF5D5D)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-071426?style=flat-square&logo=postgresql&logoColor=7DD3FC)
-![Strapi](https://img.shields.io/badge/Strapi-071426?style=flat-square&logo=strapi&logoColor=8B9CFF)
-![Git](https://img.shields.io/badge/Git-071426?style=flat-square&logo=git&logoColor=F97360)
-![GitHub](https://img.shields.io/badge/GitHub-071426?style=flat-square&logo=github&logoColor=FFFFFF)
-![Figma](https://img.shields.io/badge/Figma-071426?style=flat-square&logo=figma&logoColor=38BDF8)
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2500&pause=1000&color=4DA6FF&center=true&vCenter=true&width=700&lines=Backend+Developer;Building+REST+API;Learning+Every+Single+Day;Creating+Something+People+Can+Use" />
 
 </div>
 
-## Learning Journey
+---
 
-| Completed | In Progress | Next |
-|:--|:--|:--|
-| Git & GitHub | Laravel | Docker |
-| REST API Basics | Strapi CMS | Redis |
-| CRUD Operations | Authentication | Testing |
-| PostgreSQL Basics | Database Relations | CI/CD |
-| Frontend API Integration | Backend Features | Clean Architecture & System Design |
+# /whoami
 
-## Featured Project
+I'm **Cea**.
 
-<a href="https://github.com/ceacodesnclass-rgb/chizzuu-gesture-blur-camera">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ceacodesnclass-rgb&repo=chizzuu-gesture-blur-camera&theme=github_dark&hide_border=true&bg_color=071426&title_color=58A6FF&text_color=C9D1D9&icon_color=7DD3FC" alt="Chizzuu Gesture Blur Camera">
-</a>
+A backend developer who enjoys building systems that are clean, scalable, and easy to maintain.
 
-## Beyond Coding
+Currently exploring backend architecture, databases, authentication, and turning complex business logic into simple APIs.
 
-🎨 Exploring UI/UX and creative editing  
-🎥 Learning content creation and filmmaking  
-🎮 Starting a journey as a beginner streamer  
-🎹 Playing keyboard and learning guitar
+Not chasing perfection.
 
-## GitHub Activity
+Just shipping better code than yesterday.
+
+---
+
+# /stack
+
+<table>
+<tr>
+<td>
+
+### Languages
+
+- Go
+- TypeScript
+- JavaScript
+- SQL
+
+</td>
+
+<td>
+
+### Backend
+
+- REST API
+- JWT
+- PostgreSQL
+- Docker
+
+</td>
+
+<td>
+
+### Tools
+
+- Git
+- GitHub
+- Postman
+- VS Code
+
+</td>
+</tr>
+</table>
+
+---
+
+# /currently_building
+
+🚀 D&K Travel CMS
+
+🖐 Gesture Blur Camera
+
+🔐 Authentication System
+
+📦 Backend Playground
+
+---
+
+# /github
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=ceacodesnclass-rgb&show_icons=true&hide_border=true&bg_color=071426&title_color=58A6FF&text_color=C9D1D9&icon_color=7DD3FC" alt="GitHub statistics">
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ceacodesnclass-rgb&layout=compact&hide_border=true&bg_color=071426&title_color=58A6FF&text_color=C9D1D9" alt="Most used languages">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=transparent&hide_border=true"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME&theme=transparent&hide_border=true"/>
 
 </div>
 
-<br>
+---
 
 <div align="center">
 
-> Learn the flow before writing the code.
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=USERNAME&theme=github-compact&hide_border=true"/>
 
-<sub>Keep it simple · Make it useful · Improve one commit at a time</sub>
+</div>
 
-<br><br>
+---
 
-<a href="https://tiktok.com/@_zodvn">
-  <img src="https://img.shields.io/badge/TikTok-@_zodvn-071426?style=flat-square&logo=tiktok&logoColor=7DD3FC" alt="TikTok">
-</a>
-<a href="https://tiktok.com/@_zodvn.2">
-  <img src="https://img.shields.io/badge/TikTok-@_zodvn.2-0B2545?style=flat-square&logo=tiktok&logoColor=FFFFFF" alt="TikTok second account">
-</a>
+# /philosophy
+
+```
+while (alive) {
+
+    learn();
+
+    build();
+
+    fail();
+
+    improve();
+
+    repeat();
+
+}
+```
+
+---
+
+<div align="center">
+
+### "Great software is invisible.
+Users only remember how it made them feel."
+
+⭐ Thanks for visiting.
 
 </div>
