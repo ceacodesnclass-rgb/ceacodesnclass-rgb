@@ -1,137 +1,89 @@
 <div align="center">
 
-# CEA
+<img src="./assets/cea-banner.svg" width="100%" alt="CEA — Backend Developer">
 
-```bash
-> booting developer profile...
+<br>
 
-███████████████████░░░░ 78%
-
-Status      : Building
-Role        : Backend Developer
-Location    : Indonesia
-Coffee      : Required ☕
-Current Job : Turning ideas into APIs
-```
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2500&pause=1000&color=4DA6FF&center=true&vCenter=true&width=700&lines=Backend+Developer;Building+REST+API;Learning+Every+Single+Day;Creating+Something+People+Can+Use" />
+[![GitHub](https://img.shields.io/badge/GitHub-ceacodesnclass--rgb-071426?style=for-the-badge&logo=github&logoColor=58A6FF)](https://github.com/ceacodesnclass-rgb)
+[![Email](https://img.shields.io/badge/Email-Let's_Talk-071426?style=for-the-badge&logo=gmail&logoColor=7DD3FC)](mailto:ceacodesnclass@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-@_zrvnfy-071426?style=for-the-badge&logo=instagram&logoColor=60A5FA)](https://instagram.com/_zrvnfy)
 
 </div>
 
----
+## `> whoami`
 
-# /whoami
-
-I'm **Cea**.
-
-A backend developer who enjoys building systems that are clean, scalable, and easy to maintain.
-
-Currently exploring backend architecture, databases, authentication, and turning complex business logic into simple APIs.
-
-Not chasing perfection.
-
-Just shipping better code than yesterday.
-
----
-
-# /stack
-
-<table>
-<tr>
-<td>
-
-### Languages
-
-- Go
-- TypeScript
-- JavaScript
-- SQL
-
-</td>
-
-<td>
-
-### Backend
-
-- REST API
-- JWT
-- PostgreSQL
-- Docker
-
-</td>
-
-<td>
-
-### Tools
-
-- Git
-- GitHub
-- Postman
-- VS Code
-
-</td>
-</tr>
-</table>
-
----
-
-# /currently_building
-
-🚀 D&K Travel CMS
-
-🖐 Gesture Blur Camera
-
-🔐 Authentication System
-
-📦 Backend Playground
-
----
-
-# /github
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=transparent&hide_border=true"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME&theme=transparent&hide_border=true"/>
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=USERNAME&theme=github-compact&hide_border=true"/>
-
-</div>
-
----
-
-# /philosophy
-
-```
-while (alive) {
-
-    learn();
-
-    build();
-
-    fail();
-
-    improve();
-
-    repeat();
-
-}
+```yaml
+name: Cea
+role: Backend Developer
+currently: Backend Intern @ Codelabs Indonesia
+focus:
+  - REST API Development
+  - Clean Architecture
+  - System Design
+creative_side:
+  - UI/UX Design
+  - Beginner Streamer
 ```
 
----
+> A beginner backend developer learning to build clean, reliable APIs and useful digital experiences—one commit at a time.
+
+## `> tech --list`
+
+![Laravel](https://img.shields.io/badge/Laravel-071426?style=flat-square&logo=laravel&logoColor=FF5D5D)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-071426?style=flat-square&logo=postgresql&logoColor=7DD3FC)
+![Strapi](https://img.shields.io/badge/Strapi-071426?style=flat-square&logo=strapi&logoColor=8B9CFF)
+![Git](https://img.shields.io/badge/Git-071426?style=flat-square&logo=git&logoColor=F97360)
+![GitHub](https://img.shields.io/badge/GitHub-071426?style=flat-square&logo=github&logoColor=FFFFFF)
+![Figma](https://img.shields.io/badge/Figma-071426?style=flat-square&logo=figma&logoColor=38BDF8)
+
+## `> learning_journey`
+
+| `COMPLETED` | `IN PROGRESS` | `NEXT TARGET` |
+|:--|:--|:--|
+| Git & GitHub | Laravel | Docker |
+| REST API Basics | Strapi CMS | Redis |
+| CRUD Operations | Authentication | Testing |
+| PostgreSQL Basics | Database Relations | CI/CD |
+| Frontend API Integration | Backend Features | Clean Architecture |
+|  |  | System Design |
+
+## `> system_analytics`
+
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ceacodesnclass-rgb&show_icons=true&hide_border=true&bg_color=050B16&title_color=58A6FF&text_color=C9D1D9&icon_color=22D3EE" alt="GitHub statistics">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ceacodesnclass-rgb&layout=compact&hide_border=true&bg_color=050B16&title_color=58A6FF&text_color=C9D1D9" alt="Most used languages">
+</div>
+
+<div align="center">
+  <img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=ceacodesnclass-rgb&bg_color=050B16&color=93C5FD&line=22D3EE&point=FFFFFF&area=true&hide_border=true" alt="Contribution activity graph">
+</div>
+
+## `> featured_deployments`
+
+<div align="center">
+  <a href="https://github.com/ceacodesnclass-rgb/chizzuu-gesture-blur-camera">
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=ceacodesnclass-rgb&repo=chizzuu-gesture-blur-camera&hide_border=true&bg_color=050B16&title_color=58A6FF&text_color=C9D1D9&icon_color=22D3EE" alt="Chizzuu Gesture Blur Camera">
+  </a>
+</div>
+
+## `> beyond_coding`
+
+```text
+🎨  UI/UX & creative editing
+🎥  Content creation & filmmaking
+🎮  Beginner streamer
+🎹  Keyboard & learning guitar
+```
 
 <div align="center">
 
-### "Great software is invisible.
-Users only remember how it made them feel."
+> **Learn the flow before writing the code.**
 
-⭐ Thanks for visiting.
+<sub>BUILD · LEARN · CREATE</sub>
+
+<br><br>
+
+[![TikTok](https://img.shields.io/badge/TikTok-@_zodvn-071426?style=flat-square&logo=tiktok&logoColor=7DD3FC)](https://tiktok.com/@_zodvn)
+[![TikTok](https://img.shields.io/badge/TikTok-@_zodvn.2-071426?style=flat-square&logo=tiktok&logoColor=FFFFFF)](https://tiktok.com/@_zodvn.2)
 
 </div>
